@@ -70,12 +70,12 @@
  ┃ ┃ ┃ ┣ 📜 News.java
  ┃ ┃ ┃ ┣ 📜 Portfolio.java
  ┃ ┃ ┃ ┣ 📜 Stock.java
- ┃ ┃ ┃ ┣ 📜 User.java
+ ┃ ┃ ┃ ┗ 📜 User.java
  ┃ ┃ ┣ 📜 database.java
- ┃ ┃ ┣ 📜 model.java
+ ┃ ┃ ┗ 📜 model.java
  ┃ ┃
  ┃ ┣ 📂 view/
- ┃ ┃ ┣ 📜 consoleUI.java
+ ┃ ┃ ┗ 📜 consoleUI.java
  ┃ ┃ 
  ┃ ┗ 📂 Run/
  ┃   ┗ 📜 Main.java
